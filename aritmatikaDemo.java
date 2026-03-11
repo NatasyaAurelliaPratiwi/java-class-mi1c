@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package pbo_2501093006;
+package pbo_2501092025;
 
 /**
  *
@@ -53,3 +53,4 @@ public class aritmatikaDemo
          System.out.println("i * x = " + (i * x));
     }
 }
+
